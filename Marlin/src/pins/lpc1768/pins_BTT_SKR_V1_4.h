@@ -150,9 +150,9 @@
 //
 // Power Loss Detection
 //
-#ifndef POWER_LOSS_PIN
-  #define POWER_LOSS_PIN                   P1_00  // PWRDET
-#endif
+// #ifndef POWER_LOSS_PIN
+  //#define POWER_LOSS_PIN                   P1_00  // PWRDET
+//#endif
 
 //
 // Steppers
